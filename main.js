@@ -1,3 +1,5 @@
+//Assignment 5: Write a JavaScript program to highlight the word with more than 5 characters with green background.
+
 const textArea=document.querySelector(".my-text-area");
 const totalWords=document.querySelector(".total-words");
 const outText=document.querySelector(".out-text p");
